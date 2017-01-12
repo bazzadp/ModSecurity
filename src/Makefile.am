@@ -66,6 +66,7 @@ noinst_HEADERS = \
 
 
 VARIABLES = \
+	variables/arg_names.cc \
 	variables/duration.cc \
 	variables/env.cc \
 	variables/highest_severity.cc \
